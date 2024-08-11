@@ -1,4 +1,4 @@
-# GoProxy Exention
+# GoProxy Extension
 
 Browser extension for using [goproxy](https://github.com/algrvvv/goproxy)
 
